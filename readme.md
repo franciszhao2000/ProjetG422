@@ -21,6 +21,12 @@
 let toto="Hello world!";
 ```
 
+```php
+$montant = 100;
+$montant = $montant - 50;
+echo $montant;
+```
+
 + lol
 + dota
 + ml
